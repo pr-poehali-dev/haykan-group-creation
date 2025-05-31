@@ -30,8 +30,8 @@ const Contact = () => {
               <CardTitle>Телефон</CardTitle>
             </CardHeader>
             <CardContent className="text-center">
-              <p className="text-lg font-semibold">+7 (999) 123-45-67</p>
-              <p className="text-gray-400">Ежедневно 9:00-21:00</p>
+              <p className="text-lg font-semibold">+7 916-424-08-00</p>
+              <p className="text-gray-400">Ежедневно 9:00-19:00</p>
             </CardContent>
           </Card>
 
@@ -45,7 +45,10 @@ const Contact = () => {
               <CardTitle>Адрес</CardTitle>
             </CardHeader>
             <CardContent className="text-center">
-              <p className="text-lg font-semibold">ул. Технологическая, 15</p>
+              <p className="text-lg font-semibold">
+                Город Москва, Пятницнское шоссе 18, " Митинский радио рынок"
+                Павильон 2Л4
+              </p>
               <p className="text-gray-400">Москва, 123456</p>
             </CardContent>
           </Card>
