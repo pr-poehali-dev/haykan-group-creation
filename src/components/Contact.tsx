@@ -46,8 +46,7 @@ const Contact = () => {
             </CardHeader>
             <CardContent className="text-center">
               <p className="text-lg font-semibold">
-                Город Москва, Пятницнское шоссе 18, " Митинский радио рынок"
-                Павильон 2Л4
+                Москва, Пятницкое ш.,18,ТК Митинский Радиорынок п.2л4
               </p>
               <p className="text-gray-400"></p>
             </CardContent>
