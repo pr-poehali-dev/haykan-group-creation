@@ -78,7 +78,7 @@ const Contact = () => {
               <CardTitle>Режим работы</CardTitle>
             </CardHeader>
             <CardContent className="text-center">
-              <p className="text-lg font-semibold">Пн-Вс 9:00-21:00</p>
+              <p className="text-lg font-semibold">Пн-Вс 9:00-19:00</p>
               <p className="text-gray-400">Без выходных</p>
             </CardContent>
           </Card>
