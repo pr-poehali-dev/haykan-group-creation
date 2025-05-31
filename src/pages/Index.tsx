@@ -2,6 +2,7 @@ import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import Services from "@/components/Services";
 import Products from "@/components/Products";
+import Gallery from "@/components/Gallery";
 import Contact from "@/components/Contact";
 
 const Index = () => {
@@ -11,6 +12,7 @@ const Index = () => {
       <Hero />
       <Services />
       <Products />
+      <Gallery />
       <Contact />
     </div>
   );
