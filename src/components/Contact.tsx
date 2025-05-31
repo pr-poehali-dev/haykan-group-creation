@@ -62,7 +62,9 @@ const Contact = () => {
               <CardTitle>Telegram</CardTitle>
             </CardHeader>
             <CardContent className="text-center">
-              <p className="text-lg font-semibold">@haykan_group</p>
+              <p className="text-lg font-semibold">
+                https://t.me/HaykanGroupMSK
+              </p>
               <p className="text-gray-400">Быстрая связь в любое время</p>
             </CardContent>
           </Card>
