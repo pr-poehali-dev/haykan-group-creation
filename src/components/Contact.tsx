@@ -56,15 +56,15 @@ const Contact = () => {
           <Card className="bg-gray-800 border-gray-700 text-white">
             <CardHeader className="text-center">
               <Icon
-                name="Mail"
+                name="MessageCircle"
                 size={48}
                 className="mx-auto mb-4 text-blue-400"
               />
-              <CardTitle>Email</CardTitle>
+              <CardTitle>Telegram</CardTitle>
             </CardHeader>
             <CardContent className="text-center">
-              <p className="text-lg font-semibold">info@haykan.ru</p>
-              <p className="text-gray-400">Ответим в течение часа</p>
+              <p className="text-lg font-semibold">@haykan_group</p>
+              <p className="text-gray-400">Быстрая связь в любое время</p>
             </CardContent>
           </Card>
 
