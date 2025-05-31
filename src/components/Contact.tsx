@@ -49,7 +49,7 @@ const Contact = () => {
                 Город Москва, Пятницнское шоссе 18, " Митинский радио рынок"
                 Павильон 2Л4
               </p>
-              <p className="text-gray-400">Москва, 123456</p>
+              <p className="text-gray-400"></p>
             </CardContent>
           </Card>
 
